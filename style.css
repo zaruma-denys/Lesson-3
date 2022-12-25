@@ -1,0 +1,32 @@
+.div1 {
+    width: 300px;
+    height: 300px;
+    background-color: aqua;
+    margin: auto;
+    border: 2px red dashed;
+}
+.div2 {
+    width: 300px;
+    height: 300px;
+    background-color: yellow;
+    margin: auto;
+    margin-top: 30px;
+    border: 2px red dotted;
+}
+
+.div3 {
+    width: 300px;
+    height: 300px;
+    background-color: aqua;
+    margin: auto;
+    margin-top: 30px;
+    border: 30px blue solid;
+}
+.div4 {
+    width: 300px;
+    height: 300px;
+    background-color: aqua;
+    margin: auto;
+    margin-top: 30px;
+    border-left: 10px solid black;
+}
